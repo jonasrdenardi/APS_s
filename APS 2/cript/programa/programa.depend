@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1447339930 source:e:\cript\programa\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
+1447532472 source:h:\cript\programa\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
+1447528872 source:f:\cript\programa\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
